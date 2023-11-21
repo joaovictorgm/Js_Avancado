@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum",
+      "author": "Joao Victor"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum",
+      "author": "Joao Victor"
+    },
+    {
+      "title": "Aprendendo",
+      "author": "Joao Victor",
+      "content": "Lorem ipsum...",
+      "id": 3
+    },
+    {
+      "title": "Aquecimento Global",
+      "author": "Joao Victor",
+      "content": "Hoje foi muito quente!!",
+      "id": 4
+    }
+  ]
+}
