@@ -1,3 +1,5 @@
+let transactions = [] 
+
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('transactionForm')
     const transactionList = document.getElementById('transactionList')
